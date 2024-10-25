@@ -1,6 +1,8 @@
 
 Design1
-https://github.com/user-attachments/assets/616403a2-2a2c-4ad3-948d-9fefd6835d64
+
+https://github.com/user-attachments/assets/044b76b1-f5cd-450f-9f52-4a6aa673c066
+
 
 
 Design2
